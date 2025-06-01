@@ -1,11 +1,4 @@
-# Hayate Keys
-
-
-## Project info
-
-### Live URL - [CLick Here](https://hayatekeys.vercel.app)
-
-![diagram](https://github.com/user-attachments/assets/c8ea208a-9a7e-4e12-ac20-f709496a55f7)
+# Welcome to your Lovable project
 
 
 
@@ -15,7 +8,7 @@ There are several ways of editing your application.
 
 **Use your preferred IDE**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes.
+If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
@@ -23,13 +16,13 @@ Follow these steps:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
-git clone https://github.com/Sanket-Bharadwaj/HayateKeys
+git clone <YOUR_GIT_URL>
 
 # Step 2: Navigate to the project directory.
-cd HayateKeys
+cd <YOUR_PROJECT_NAME>
 
 # Step 3: Install the necessary dependencies.
-npm install
+npm i
 
 # Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
@@ -59,4 +52,4 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-
+## How can I deploy this project?
